@@ -1,0 +1,13 @@
+.light-txt {
+	color: black;
+}
+.light-bg {
+	background-color: aliceblue;
+}
+
+.dark-txt {
+	color: aliceblue;
+}
+.dark-bg {
+	background-color: black;
+}
